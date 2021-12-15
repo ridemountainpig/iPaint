@@ -1,0 +1,45 @@
+body {
+  margin: 0px;
+  margin: 0px;
+}
+#myCanvas {
+  background-color: #ddd;
+  border-bottom: 1px solid black;
+  margin-bottom: 5px;
+  max-width: 100%;
+}
+table {
+  width: 100%;
+  border: 5px solid plum;
+  background: conic-gradient(
+        #500 0, #500 45deg,
+        #f00 45deg, #f00 90deg,
+        #f50 90deg, #f50 135deg,
+        #ff0 135deg,#ff0 180deg,
+        #0c0 180deg, #0c0 225deg,
+        #09d 225deg, #09d 270deg,
+        #00b 270deg, #00b 315deg,
+        #909 315deg, #909 360deg
+    );
+  max-width: 100%;
+}
+
+#colorChange {
+  border-radius: 5px;
+  
+}
+
+#btnClear {
+  border-radius: 5px;
+  
+}
+
+#all {
+  border-radius: 5px;
+  
+}
+
+img {
+  max-width:100%;
+  height: auto;
+}
